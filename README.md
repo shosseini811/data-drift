@@ -1,1 +1,3 @@
-# data-drift
+The article "What is Data Drift and How to Detect it in Machine Learning?" discusses the concept of data drift, its causes, and methods to detect it in real-time datasets. Data drift occurs when the statistical properties of input data change over time, affecting the performance of machine learning models. Causes of data drift include changes in user behavior, seasonal patterns, and changes in the data collection process. To detect data drift, one can use statistical tests, model-based methods, and time distribution-based methods. The article also provides an example using the Iris dataset and Python to demonstrate data drift detection. Various tools and techniques for detecting data drift in real-time datasets include Azure Machine Learning, Eurybia, and DeepChecks.
+
+You can access the article [here](https://sohailhosseini.substack.com/p/what-is-data-drift-and-how-to-detect). 
